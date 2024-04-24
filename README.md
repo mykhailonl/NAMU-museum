@@ -55,7 +55,7 @@ The main goal of the project was to create a hands-on project to demonstrate pro
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details.
 
 ## Contact
-For queries or suggestions, please contact at [mikhaillapchinskyi+namu@gmail.com].
+For queries or suggestions, please contact at mikhaillapchinskyi+namu@gmail.com.
 
 Enjoy your virtual visit to the NAMU Museum!
 
